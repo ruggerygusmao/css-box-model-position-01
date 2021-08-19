@@ -1,0 +1,17 @@
+img[alt=maldivas]{
+    width: 400px;
+    border: 4px double lightblue;
+    opacity: 0.7;
+}
+
+img[alt=roma]{
+    width: 400px;
+    border: 4px inset gray;
+}
+h1{
+    text-align: center;
+}
+section{
+    display: flex;
+    justify-content: space-evenly;
+}
