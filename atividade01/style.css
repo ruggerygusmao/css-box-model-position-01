@@ -1,0 +1,26 @@
+#dog01{
+    border: 1px dotted red;
+}
+
+#dog02{
+    border: 2px solid blue;
+}
+
+#dog03{
+    border: 3px dashed coral;
+}
+
+#dog04{
+    border: 4px double black;
+}
+
+#dog05{
+    border: 5px outset green;
+}
+
+img{
+    width: 300px;
+    margin: 5px;
+    padding: 10px;
+}
+
